@@ -1,4 +1,4 @@
-# Hermes Agent Lab — V4
+# Hermes Agent Lab
 
 > **A local-first Hermes Agent reference architecture with the architecture, flows, and Mermaid diagrams documented directly in the README.**
 
