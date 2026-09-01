@@ -1,0 +1,7 @@
+flowchart LR
+    HERMES["Hermes on ai-server"]
+    API["192.168.0.132:11434/v1"]
+    MODEL["GLM-4.7-Flash"]
+
+    HERMES -->|OpenAI-compatible HTTP| API
+    API --> MODEL
