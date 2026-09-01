@@ -1,0 +1,18 @@
+flowchart TB
+    USER["User"]
+    AGENT["Hermes Agent"]
+    MEMORY["Memory"]
+    SKILL["Skill"]
+    TOOLS["Tools"]
+    MODEL["GLM-4.7-Flash"]
+    RESULT["Result"]
+
+    USER --> AGENT
+    AGENT --> MEMORY
+    AGENT --> SKILL
+    AGENT --> TOOLS
+    AGENT --> MODEL
+    MEMORY --> RESULT
+    SKILL --> RESULT
+    TOOLS --> RESULT
+    MODEL --> RESULT
