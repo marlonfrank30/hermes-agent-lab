@@ -636,6 +636,8 @@ The `diagrams/` directory from V3 remains in the repository as a lightweight sup
 >
 > This distinction matters because both projects are moving very quickly and several capabilities that historically differentiated Hermes — memory, skills, self-learning, cron, sub-agents, computer use and multi-channel gateways — now exist in both projects.
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c9219c7b-4ea7-48a0-8b7c-132b849e162e" />
+
 ## The short version
 
 | Capability | Hermes | OpenClaw | Current Hermes advantage |
