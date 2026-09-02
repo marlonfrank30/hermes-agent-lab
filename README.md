@@ -361,7 +361,7 @@ A public Hermes deployment should not expose administrative interfaces directly 
 ```mermaid
 flowchart TB
     INTERNET[Internet]
-    EDGE[VPN / Zero Trust / Authenticated Reverse Proxy]
+    EDGE[ F5 Zero Trust Access / Authenticated Reverse Proxy]
     GW[Hermes Gateway]
     TOOLS[Hermes Tools]
     MODEL[Private Model API]
